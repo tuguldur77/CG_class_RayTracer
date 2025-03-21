@@ -1,7 +1,7 @@
 # Ray Tracer - Computer Graphics Assignment 1
 
 ## 🎯 Objective  
-This project implements a **basic ray tracer** that renders a scene with:  
+This assignment implements a **basic ray tracer** that renders a scene with:  
 - A **plane** at `y = -2`  
 - **Three spheres** at:  
   - (-4, 0, -7) with radius 1  
@@ -50,7 +50,7 @@ Click Build > Build Solution (Ctrl + Shift + B)
 Click Start (F5) to run
 
 ## 📦 Included Dependencies
-The project includes:
+The assignment includes:
 
 ✔ OpenGL (Rendering)
 ✔ GLFW (Window & Input Management)
