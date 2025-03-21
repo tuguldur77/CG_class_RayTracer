@@ -37,9 +37,11 @@ This assignment implements a **basic ray tracer** that renders a scene with:
 ### **🔹 How to Compile & Run**  
 
 #### **1️⃣ Clone the Repository**  
+> Navigate to the directory where you want to clone the repository
+> Use the git clone command
 ```sh
-git clone https://github.com/tuguldur77/GC-class.git
-cd GC-class
+git clone https://github.com/tuguldur77/CG_class_RayTracer.git
+cd CG_assignment1_202213827_Tuguldur
 ```
 
 #### **2️⃣ Open in Visual Studio
