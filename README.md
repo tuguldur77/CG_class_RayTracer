@@ -67,5 +67,17 @@ The assignment includes:
  🦾 Output: </br>
 ![CG_assignment1-zurag2](https://github.com/user-attachments/assets/a7ca82e5-2329-490a-8ee5-95d587435d71)
 
+🧠 For assistance</br></br>
+CG_code folder provided by teacher was used to:</br>
+- C++ OpenGL code for for main(), resize_callback().</br>
+
+Class notes was used to:</br>
+- Implement the ray-plane and ray-sphere intersection functions correctly.</br>
+
+GitHub Copilot was used to:</br>
+- Help with optimize matrix transformations using GLM.</br>
+- Help with debug errors.</br>
+
+
 📌 Author
 GitHub: [Tuguldur77](https://github.com/tuguldur77)
